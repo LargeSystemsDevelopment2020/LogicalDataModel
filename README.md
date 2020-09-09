@@ -9,7 +9,7 @@
 |Third part solution|||
 |Employees| x  ||
 |Travel-Agency| ?  ||
-|Agrement|||
+|Agrement| ?  ||
 |Identification| x  |by 8 letters, the first two letters should be ISO_3166 country code and the last five characters are a 6 didgit number|
 |Hotel-Name| x  ||
 |Adresse| x  |||
