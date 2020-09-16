@@ -31,6 +31,7 @@
 |Meetingrooms| x |Meeting rooms can only be booked in connection with a stay, the capacity of the meeting rooms can not be used for accommodation.|
 
 ![](Model.png)
+
 ### Verbs
 
 |Names    |LDM   | Explenation |
@@ -48,6 +49,15 @@
 |||
 |||
 |||
+
+
+### Use case description
+
+#### blabla
+
+**Description:** blablablabla
+
+**Extends:** blablabla
 
 
 
