@@ -2,10 +2,10 @@
 |Names |LDM | Explenation |
 |------|----|-------------|
 |Hotel | x |             |
-|Holiday|||
-|System|||
+|Holiday|-||
+|System|-||
 |Rooms | x ||
-|Web-Servive|||
+|Web-Servive|-||
 |Third part solution|||
 |Employees| x ||
 |Travel-Agency| ? ||
@@ -27,8 +27,4 @@
 |Late arrival| x ||
 |Capacity-Room| x ||
 |Meetingrooms| x |Meeting rooms can only be booked in connection with a stay, the capacity of the meeting rooms can not be used for accommodation.|
-||||
-||||
-||||
-||||
-||||
+
