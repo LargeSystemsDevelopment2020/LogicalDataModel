@@ -36,7 +36,7 @@
 |---------|:----:|-------------|
 |show list of rooms| x |
 |hotel imformation| x |
-|meeting oom available| x |
+|meeting room available| x |
 |make booking| x |
 |error message| x |
 |see booking| x |
