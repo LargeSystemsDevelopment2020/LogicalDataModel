@@ -34,12 +34,12 @@
 
 |Names    |LDM   | Explenation |
 |---------|:----:|-------------|
-|||
-|||
-|||
-|||
-|||
-|||
+|show list of rooms| x |
+|hotel imformation| x |
+|meeting oom available| x |
+|make booking| x |
+|error message| x |
+|see booking| x |
 |||
 |||
 |||
