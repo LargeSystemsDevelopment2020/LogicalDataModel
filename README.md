@@ -1,8 +1,8 @@
 # LogicalDataModel
 
 ### Nouns 
-|Names |LDM | Explenation |
-|------|----|-------------|
+|Names |LDM   | Explenation |
+|------|:----:|-------------|
 |Hotel | x |             |
 |Holiday|-||
 |System|-||
@@ -32,8 +32,8 @@
 
 ### Verbs
 
-|Names |LDM | Explenation |
-|------|----|-------------|
+|Names    |LDM   | Explenation |
+|---------|:----:|-------------|
 |||
 |||
 |||
