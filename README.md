@@ -53,7 +53,7 @@
 
 ### Use case description
 
-#### Use case 1
+### Use case 1
 
 **Description:** blablablabla
 
@@ -73,5 +73,5 @@
 
 **Alternative postconditions:**
 
-#### Use case 1
+### Use case 2
 
