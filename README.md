@@ -34,21 +34,24 @@
 
 ### Verbs
 
-|Names    |LDM   | Explenation |
-|---------|:----:|-------------|
-|show list of rooms| x |
-|hotel imformation| x |
-|meeting room available| x |
-|make booking| x |
-|error message| x |
-|see booking| x |
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Names            |LDM           | Explenation |
+|-----------------|:------------:|-------------|
+|Identified ||
+|Invole one or more guest||
+|Include omore than one room||
+|May not be greater than||
+|Only be booked in connection with a stay||
+|Can not be used for accommodation||
+|Should be marked with "late arrival"||
+|Tasks should be handled by the web application||
+|Show a list of vacant hotel rooms||
+|Should include hotel information and type of rooms||
+|Make a booking||
+|Include af meeting room||
+|An error message should be returned||
+|See a booking (passport)||
+|Cancel a booking (passport)||
+
 
 
 ### Use case description
