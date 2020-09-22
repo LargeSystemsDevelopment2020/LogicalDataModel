@@ -1,5 +1,5 @@
 ### USE CASE
-![](Model.PNG)
+![ ](Model.png)
 ### Verbs
 
 |Names            |LDM           | Explenation |
