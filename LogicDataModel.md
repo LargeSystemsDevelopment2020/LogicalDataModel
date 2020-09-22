@@ -1,6 +1,6 @@
 ### LogicalDataModel
 
-![](Model.png)
+![](lsd.png)
 
 
 ### Nouns 
