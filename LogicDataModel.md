@@ -1,6 +1,5 @@
-### Logic Data Model
+### Use Case
 
-![](Model.png)
 
 ### Verbs
 
