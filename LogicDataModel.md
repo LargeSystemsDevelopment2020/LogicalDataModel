@@ -1,4 +1,4 @@
-### USE CASE
+### Logic Data Model
 
 ![](Model.png)
 
