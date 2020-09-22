@@ -1,5 +1,6 @@
 ### Use Case
 
+![](Model.png)
 
 ### Verbs
 
