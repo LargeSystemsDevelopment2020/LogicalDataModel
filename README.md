@@ -53,28 +53,37 @@
 |Cancel a booking (passport)|x|
 
 
+## Main Use Case
 
-### Use case description
+### Agency employee makes a booking
 
-### Use case 1
+Main Success Scenario: 
+Agency employee makes successfull booking through an booking api.
 
-**Description:** blablablabla
+Prime actor: Travel agency employee / thrird part solution users
+Secondary Actor: NONE
 
-**Extends:** blablabla
+1. Actor can get a list of vacant hotel rooms in a given city for a given number of guests and period of time.
+2. Actor can make a booking for up to 9 persons in one or more rooms for a given period of time on a given day
+3. See booking
 
-**Primary Actor:** blablabla
+* * *
 
-**Secondary Actor:**  ????
 
-**Main Scenario:**
-1. blablabla
-2. blablabla
+Secondary Scenario Nr. 1:
+Pre-conditions: 
+Agency employee cancell a booking. 
 
-**Postcondiotion:**
+1. Actor can get a list of vacant hotel rooms in a given city for a given number of guests and period of time.
+2. Actor can make a booking for up to 9 persons in one or more rooms for a given period of time on a given day
+3. Actor makes a booking of a meeting room
+4. See booking
 
-**Alternative scenarios:**
 
-**Alternative postconditions:**
+Secondary Scenario Nr. 2:
+Pre-conditions: Must have a booking
+Agency employee cancell a booking. 
 
-### Use case 2
+1. Actor finds booking
+2. Actor cancels the booking
 
