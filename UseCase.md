@@ -1,6 +1,6 @@
 ### USE CASE
 
-[usm]{UseCaseLSD.PNG}
+![Alternate image text](UseCaseLSD.PNG)
 
 ### Verbs
 
