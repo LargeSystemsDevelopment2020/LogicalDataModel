@@ -1,7 +1,8 @@
 ### GROUP E
 
-- [Logic Data Model](https://github.com/LargeSystemsDevelopment2020/MoonLodge/blob/master/LogicDataModel.md)
+- [Logic Data Model](https://github.com/LargeSystemsDevelopment2020/MoonLodge/blob/master/diagrams/LogicDataModel.mdd)
 
-- [Use Case Model](https://github.com/LargeSystemsDevelopment2020/MoonLodge/blob/master/UseCase.md)
+- [Use Case Model](https://github.com/LargeSystemsDevelopment2020/MoonLodge/blob/master/diagrams/UseCase.md)
 
+- [Sequence Diagram](https://github.com/LargeSystemsDevelopment2020/MoonLodge/blob/master/diagrams/SequenceDiagram.md)
 
