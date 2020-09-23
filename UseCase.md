@@ -30,7 +30,7 @@
 Main Success Scenario: 
 Agency employee makes successfull booking through an booking api.
 
-Prime actor: Travel agency employee / thrird part solution users
+Prime actor: Travel agency employee / third part solution users  
 Secondary Actor: NONE
 
 1. Actor can get a list of vacant hotel rooms in a given city for a given number of guests and period of time.
