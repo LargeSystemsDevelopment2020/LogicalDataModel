@@ -1,6 +1,6 @@
 ### USE CASE
 
-![Alternate image text](UseCaseLSD.PNG)
+![Billede af use case model. ligger også under denne mappe](UseCaseModel.png)
 
 ### Verbs
 
