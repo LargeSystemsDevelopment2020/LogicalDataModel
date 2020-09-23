@@ -1,6 +1,6 @@
 ### USE CASE
 
-![Billede af use case model. ligger også under denne mappe](UseCase.png)
+![Billede af use case model. ligger også under denne mappe](UseCaseModel.png)
 
 ### Verbs
 
@@ -36,6 +36,9 @@
 1. Actor can get a list of vacant hotel rooms in a given city for a given number of guests and period of time.
 2. Actor can make a booking for up to 9 persons in one or more rooms for a given period of time on a given day
 3. See booking
+
+**Extension:**
+2a. An error message should be returned if the rooms are not available.
 
 * * *
 
