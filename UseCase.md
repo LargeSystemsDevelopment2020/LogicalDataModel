@@ -1,6 +1,6 @@
 ### USE CASE
 
-![Billede af use case model. ligger også under denne mappe](UseCaseModel.png)
+![Billede af use case model. ligger også under denne mappe](UseCase.png)
 
 ### Verbs
 
