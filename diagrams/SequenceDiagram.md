@@ -1,3 +1,8 @@
-### Sequence Diagram
+## Sequence Diagram
 
-![create booking](../Sequence_CreateBooking.png)
+### Sequence Create Booking
+![create booking](../Sequence_CreateBooking.png)  
+  
+  
+### Sequence Find/Delete Booking
+![create booking](../Sequence_FindDeleteBooking.png)  
