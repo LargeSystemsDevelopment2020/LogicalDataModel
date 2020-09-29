@@ -1,3 +1,3 @@
 ### Sequence Diagram
 
-(create booking)[../Sequence_CreateBooking.png]
+[create booking](../Sequence_CreateBooking.png)
