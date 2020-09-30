@@ -25,20 +25,29 @@
 
 ## Main Use Cases
 
-### Agency employee makes a booking
+**Prime actor:** System user: Travel agency employee / third part solution users  
 
-**Prime actor:** Travel agency employee / third part solution users  
+### Use-case 1
+#### System user makes a booking.
+
 **Secondary Actor:** NONE  
 
+**Main Success Scenario:** System user makes successfull booking.
 
-**Main Success Scenario:** Agency employee makes successfull booking through an booking api.
+1. System user selects find hotel rooms from search form.
+2. System user fill out search form
+3. System user recives a list of vacant hotel rooms in a given city for a given number of guests and period of time.
 
-1. Actor can get a list of vacant hotel rooms in a given city for a given number of guests and period of time.
-2. Actor can make a booking for up to 9 persons in one or more rooms for a given period of time on a given day
-3. See booking
+**Extension:** Make room booking
+**Pre-conditions:** Must have a list of vacant hotel rooms
 
-**Extension:**
-2a. An error message should be returned if the rooms are not available.
+1. System user selecet vacant hotel room
+2. System user books the hotel room
+
+**Extension:** Add meeting room to booking
+**Pre-conditions:** Must have a booked room in hotel.
+
+1. System user make an extended booking on a meeting room
 
 * * *
 
