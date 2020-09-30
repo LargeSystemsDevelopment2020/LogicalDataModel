@@ -7,6 +7,7 @@
 |Names |LDM   | Explenation |
 |------|:----:|-------------|
 |Hotel | x |             |
+|Head quarter | x |             |
 |Holiday|-||
 |System|-||
 |Rooms | x ||
