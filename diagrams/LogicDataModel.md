@@ -1,6 +1,6 @@
 ### LogicalDataModel
 
-![Logic data model billede. ](../images/LogicDataModel.png)
+![Logic data model billede. ](../images/LogicDataModel_New.png)
 
 
 ### Nouns 
