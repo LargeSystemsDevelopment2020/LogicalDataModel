@@ -1,9 +1,9 @@
 # Service-level agreement
 
-Group E 
+**Group E** 
 
-Frontend: Jonas Grønbek, Joseph Dean, Nur Salem,  ?,
-Backend: Morten Feldt, Jörg Oertel, Mathias Kristensen, Magnus Klitmose, Rasmus Jacobsen
+**Frontend:** Jonas Grønbek, Joseph Dean, Nur Salem,  ?,
+**Backend:** Morten Feldt, Jörg Oertel, Mathias Kristensen, Magnus Klitmose, Rasmus Jacobsen
 
 |Version|	Date|	Desc.|	Author|
 |---|---|---|---|
